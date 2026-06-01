@@ -1,3 +1,4 @@
+<img width="2752" height="1536" alt="Autonomous_Deep_Research_Agent_Workflow" src="https://github.com/user-attachments/assets/e4078637-7d02-41b7-970a-206c9983c96d" />
 # Architecting-Autonomous-Deep-Research-Agents-with-LangGraph
 Build an AI research agent using LangGraph, OpenAI and Tavily. Learn to automate web research and generate reports.
 # **Build a Deep Research Agent with LangGraph**
